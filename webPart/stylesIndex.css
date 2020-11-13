@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+
+}
+
+
+.container_section1{
+    padding-left:30%;
+    padding-right: 30%;
+    padding-top: 3%;
+}
+
+.container_section2 {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 3%;
+}
+
+
+h2{
+    text-align: center;
+}
+
+.border-secondary{
+    padding-top:10px;
+}
+.container_section3 {
+    padding-top: 5%;
+}
+.display-6{
+    text-align:center;
+}
+
+.footer{
+    padding-top:10%;
+
+
+}
