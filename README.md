@@ -31,6 +31,7 @@ But this approach was not so effective. So it was replaced by head detector, whi
 
 Also functionality of system can be extended due to the system flexibility. As represented above, mask detection + face recognition system can be added for COVID-19 situation control monitoring.
 
+
 <img src='./readme_imgs/1_mask.jpg' width = "40%">
 <img src='./readme_imgs/1_no_mask.jpg' width = "40%">
 
