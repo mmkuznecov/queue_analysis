@@ -1,0 +1,13 @@
+INFO:root:Starting manager...
+INFO:root:Successfully captured video from 'canteen'
+INFO:root:Successfully captured video from 'barbershop'
+INFO:root:Successfully captured video from 'canteen_no_mask'
+INFO:root:Successfully captured video from 'cafeteria'
+INFO:root:Successfully captured video from 'cafeteria_no_mask'
+INFO:root:Manager started working
+ERROR:root:Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+INFO:root:
+Unfortunately, your original traceback can not be constructed.
+
